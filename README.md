@@ -9,11 +9,11 @@ This is project where I built the back-end for an e-commerce site that allows th
 * Insomnia core (testing api routes)
 
 ## Installation and Usage
-* Clone this repo to ypour machine 
+* Clone this repo to your machine 
 * Install node.js [here](https://nodejs.org/en/download/)
 * Install MySql [here](https://www.npmjs.com/package/mysql2) their documentaion can be found here as well
 * Insomnia core [here](https://insomnia.rest/products/core/) to test api routes and update database
 * Once everything is installed you can run the npm start in the command line to start the process
 
 ## Walkthrough video
-A walkthrough video of the project can be viewed at the [link](https://drive.google.com/file/d/1sNy1X1T8MfkEFTtTbaQNrQMtTz7X-Low/view)
+A walkthrough video of the project can be viewed at this [link](https://drive.google.com/file/d/1sNy1X1T8MfkEFTtTbaQNrQMtTz7X-Low/view)
